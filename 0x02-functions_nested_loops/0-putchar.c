@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - program that prints Holberton.
+ * main - program that prints Main.
  *
  * Return: int
  */
