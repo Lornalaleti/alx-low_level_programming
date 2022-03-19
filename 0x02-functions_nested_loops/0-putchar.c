@@ -9,11 +9,11 @@
 int main(void)
 {
 	int n = 0;
-	char str_hbt[9] = "Main";
+	char str_main[9] = "Main";
 
 	while (n < 9)
 	{
-		_putchar(str_hbt[n]);
+		_putchar(str_main[n]);
 		n += 1;
 	}
 	_putchar('\n');
